@@ -55,4 +55,4 @@ class GreetingRxStates extends ReactiveStatesReactComponent<DataStore> {
 }
 
 
-ReactDOM.render(<GreetingRxStates store={st}/>, document.getElementById("react_rxstates") );
+// ReactDOM.render(<GreetingRxStates store={st}/>, document.getElementById("react_rxstates") );
